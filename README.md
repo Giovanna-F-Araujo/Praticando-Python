@@ -1,2 +1,2 @@
 # Praticando-Python
- Exercícios de Python para iniciantes 
+ Exercícios de Python para iniciante
