@@ -1,7 +1,7 @@
 # Tarefa Dezenas
 
 #Entrada de dados
-numero_str = input("Digite um número inteiro: ")
+numero_str = input("Digite um número inteiro:")
 
 #Cálculo
 numero = int(numero_str)

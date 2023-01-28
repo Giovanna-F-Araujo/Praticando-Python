@@ -6,7 +6,7 @@ Imprimir os dois valores em tela.
 
 '''
 #Entrada de dados 
-a = int(input("Digite o valor de a: "))
+a = int(input("Digite o valor de a:"))
 b = int(input("Digite o valor de b:"))
 
 #Atribuindo
@@ -15,4 +15,4 @@ a = b
 b = aux
 
 #Saída de dados 
-print("O valor de a é",a,"e de b é",b)
+print("O valor de a é:",a,"e de b é:",b)
