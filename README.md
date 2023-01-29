@@ -1,2 +1,2 @@
 # Praticando-Python
- Exercícios de Python para iniciante
+ Projetos em Python nível básico para praticar lógica de programação.
