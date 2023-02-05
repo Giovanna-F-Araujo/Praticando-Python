@@ -1,2 +1,2 @@
-# Praticando-Python
- Projetos em Python - nível básico para praticar lógica de programação.
+# Praticando Python
+Exercícios em Python - Nível básico para praticar lógica de programação.
